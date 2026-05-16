@@ -4,7 +4,7 @@ Full Stack Developer • AI/ML Enthusiast • IoT Innovator
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%2F+ML+Explorer;React+%7C+Node+%7C+Firebase;Building+Real+World+Applications;Open+Source+Contributor;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%2F+ML+Explorer;React+%7C+Node+%7C+Firebase;Open+Source+Contributor;Always+Learning+New+Technologies" />
 </p>
 
 ---
