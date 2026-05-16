@@ -54,15 +54,4 @@ Full Stack Developer • AI/ML Enthusiast • IoT Innovator
 
 ---
 
-# 🧠 AI / ML Interests
 
-```python
-Areas_Of_Interest = [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Predictive Analytics",
-    "Computer Vision",
-    "Recommendation Systems",
-    "Business Automation",
-    "Intelligent Decision Systems"
-]
