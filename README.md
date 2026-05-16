@@ -1,20 +1,26 @@
 <h1 align="center">Hi 👋, I'm Lakshya Jain</h1>
-<h3 align="center">Full Stack Developer | React • Node.js • Firebase | IoT Enthusiast</h3>
+<h3 align="center">
+Full Stack Developer • AI/ML Enthusiast • IoT Innovator
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node+%7C+Firebase;IoT+Developer;Open+to+Internships;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%2F+ML+Explorer;React+%7C+Node+%7C+Firebase;Building+Real+World+Applications;Open+Source+Contributor;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🚀 About Me
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 CSE (IoT) Student at SKIT Jaipur
-- 💻 Building Full Stack & AI Projects
-- 🧠 Currently learning DSA + System Design
-- 📱 Developing Textile Business Apps
-- 🌱 Exploring AI + Firebase + Cloud
-- ⚡ Fun fact: I turn ideas into real products
+## 💫 About Me
+
+✨ Passionate about building scalable and impactful applications  
+💻 Full Stack Developer focused on modern web technologies  
+🤖 Exploring AI, Machine Learning & Intelligent Systems  
+📱 Developing real-world business solutions & automation systems  
+🌐 Interested in Cloud Computing, Firebase & System Design  
+🚀 Turning ideas into products with clean UI & efficient backend  
+🎯 Goal: Become an AI-powered Software Engineer building next-gen products  Building+Real+World+Projects" />
+</p>
 
 ---
 
@@ -65,20 +71,18 @@
 - Responsive design
 
 ---
+# 🧠 AI / ML Interests
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=krish2904-lak&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krish2904-lak&theme=tokyonight" height="180"/>
-
-</p>
-
----
-
-
+```python
+Areas_Of_Interest = [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Generative AI",
+    "Computer Vision",
+    "Automation Systems",
+    "Recommendation Systems",
+    "AI Powered Business Apps"
+]
 
 ## 🏆 GitHub Trophies
 
