@@ -78,11 +78,7 @@
 
 ---
 
-## 📈 Contribution Graph
 
-[![Lakshya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krish2904-lak&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ## 🏆 GitHub Trophies
 
