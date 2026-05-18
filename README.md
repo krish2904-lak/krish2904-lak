@@ -1,50 +1,50 @@
-<h1 align="center">🚀 Lakshya Jain</h1>
+Lakshya Jain
 
-<h3 align="center">
-Full Stack Developer • AI/ML Enthusiast • IoT Innovator
-</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%2F+ML+Explorer;React+%7C+Node+%7C+Firebase;Building+Scalable+Applications;Open+Source+Contributor;Always+Learning+New+Technologies" />
-</p>
+Full stack developer who builds things that actually work — AI-integrated web apps, automation tools, and clean interfaces backed by solid architecture. I care about shipping fast, writing maintainable code, and solving real problems, not just passing interviews.
 
----
 
-<img align="right" alt="coding" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-# 💫 About Me
+Based in India · Open to remote roles & freelance projects
 
-✨ Passionate about building scalable & impactful applications  
-💻 Full Stack Developer focused on modern web technologies  
-🤖 Exploring AI, Machine Learning & Intelligent Systems  
-📱 Building real-world business automation systems  
-🌐 Interested in Cloud Computing, Firebase & System Design  
-🚀 Turning ideas into products with clean UI & efficient backend  
-🎯 Goal: Become an AI-powered Software Engineer building next-gen products  
 
----
 
-# 🌐 Connect With Me
+What I work with
 
-<p align="left">
 
-<a href="mailto:krishisloriya2004@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
+Frontend: React, Next.js, TypeScript, Tailwind CSS
 
-<a href="https://linkedin.com/in/lakshya-jain-3745142a1">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
+Backend: Node.js, Express, Python, REST APIs
 
-<a href="https://github.com/krish2904-lak">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
+Database & Cloud: MongoDB, Firebase, MySQL
 
-</p>
+AI/ML: Integrating LLMs into products, Python ML pipelines
 
----
+Tools: Git, Linux, VS Code
 
-# ⚡ Tech Stack
+
+
+Strong in: React Node.js Firebase Python
+
+Comfortable with: Next.js TypeScript MongoDB MySQL
+
+
+
+Looking for
+
+
+Remote full stack or AI-integrated development roles, and freelance clients who need web apps built properly. I'm not a resume factory — I want to build things that matter.
+
+
+
+Get in touch
+
+
+📧 krishisloriya2004@gmail.com
+
+💼 LinkedIn
+
+🐙 GitHub
 
 <p align="center">
 
