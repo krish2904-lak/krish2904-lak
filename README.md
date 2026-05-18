@@ -1,4 +1,5 @@
-Lakshya Jain
+<h1 align="center"> Lakshya Jain</h1>
+<h3 align="center">
 
 
 Full stack developer who builds things that actually work — AI-integrated web apps, automation tools, and clean interfaces backed by solid architecture. I care about shipping fast, writing maintainable code, and solving real problems, not just passing interviews.
