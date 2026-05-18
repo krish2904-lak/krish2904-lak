@@ -22,12 +22,7 @@ Full stack developer who builds things that actually work — AI-integrated web 
 
 ---
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krish2904-lak&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
----
 
 ## What I work with
 
@@ -50,48 +45,6 @@ Full stack developer who builds things that actually work — AI-integrated web 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krish2904-lak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish2904-lak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=krish2904-lak&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Projects
-
-<!-- Replace YOUR-REPO-NAME with your actual repo names. Add or remove cards as needed. -->
-
-<p align="center">
-  <a href="https://github.com/krish2904-lak/YOUR-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krish2904-lak&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/krish2904-lak/YOUR-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krish2904-lak&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/krish2904-lak/YOUR-REPO-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krish2904-lak&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-## Currently building
-
-Working on [describe your project in one sentence — be specific]. Goal is to [what outcome you're going after].
 
 ---
 
